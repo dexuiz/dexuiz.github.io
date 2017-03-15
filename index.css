@@ -1,0 +1,73 @@
+body{
+
+  font:20px "Montserrat",sans-serif;
+  line-height:1.8;
+}
+.bg-1{
+  background-color:#1abc9c;
+  color:#ffffff;
+
+
+}
+.img1{
+  height:350px;
+  width:350px;
+
+}
+.bg-2{
+  background-color:#474e5d;
+  color:#ffffff;
+
+}
+.bg-3{
+
+  background-color:#ffffff;
+  color:#555555;
+}
+.margin{
+  margin-bottom:40px;
+
+}
+.skills{
+  padding-top:30px;
+  padding-bottom:30px;
+}
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+.cards{
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.navbar{
+  padding-top:15px;
+  padding-bottom:15px;
+  border:0;
+  margin-bottom:0;
+  font-size:14px;
+  letter-spacing:5px
+
+}
+.navbar-nav li a:hover{
+  color:#1abc9c !important
+}
+.container-fluid{
+  padding-top:78px;
+  padding-bottom:78px
+}
+.bg-4{
+  color:#ffffff;
+  background-color: #2f2f2f;
+}
+ .mycontent-left {
+  border-right: 1px dashed #333;
+}
+.marginbottom{
+  margin-bottom:45px;
+}
+.pad{
+  margin-left:50px;
+}
