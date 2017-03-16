@@ -2,7 +2,7 @@ body{
 
   font:20px 'Montserrat',sans-serif !important;
   line-height:1.8;
-  
+
 }
 .bg-1{
   background-color:#1abc9c;
@@ -70,5 +70,5 @@ div.polaroid {
   margin-bottom:45px;
 }
 .pad{
-  margin-left:50px;
+  margin-left:100px;
 }
